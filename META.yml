@@ -20,4 +20,4 @@ no_index:
 requires:
   Date::Simple: 0
   perl: 5.01
-version: 0.02
+version: 0.03
